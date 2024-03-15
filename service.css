@@ -1,0 +1,91 @@
+/* common style */
+.service-section-1{
+    margin-top:20px;
+ }
+.service-section-2,
+.service-section-3,
+.service-section-4,
+.service-section-5,
+.service-section-6,
+.service-section-7,
+.service-section-8, 
+.service-section-9,
+.footer {
+    margin-top:80px;
+}
+/* navigation */
+
+  
+/* section-1 */
+
+/* section-2 */
+
+/* section-3 */
+
+/* section-4 */
+
+/* section-5 */
+.common-border-image-service-page {
+    border-top-left-radius: 75px;
+  
+  }
+  
+/* section-6 */
+
+/* section-7 */
+
+/* section-8 */
+
+/* section-9 */
+
+/* section-10 */
+
+/* footer */
+
+/* common media query for extra small, small and medium devices */
+@media (max-width: 992px) {
+
+ .service-section-1{
+    margin-top:20px;
+ }
+.service-section-2,
+.service-section-3,
+.service-section-4,
+.service-section-5,
+.service-section-6,
+.service-section-7,
+.service-section-8, 
+.footer {
+    margin-top:30px;
+}
+/* section 1 */
+.section-1-custom-margin {
+    margin-left:15px;
+}
+}
+
+/* media query for medium devices */
+@media (min-width: 768px) {
+  /* section 1 */
+.section-1-custom-margin {
+    margin-left:25px;
+} 
+}
+
+/* media query for large devices */
+@media (min-width: 992px) {
+    /* section 1 */
+.section-1-custom-margin {
+    margin-left:0px;
+}
+    
+}
+
+/* media query for extra large (xl) devices */
+@media (min-width: 1201px) {
+    
+}
+
+/* Add your styles for extra extra large devices here */
+@media (min-width: 1401px) {
+}
